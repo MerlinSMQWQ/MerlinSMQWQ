@@ -1,5 +1,5 @@
 ## Hi! I'm Merlin! 👋
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=MerlinSMQWQ)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=MerlinSMQWQ)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerlinSMQWQ)
 
 <!--
