@@ -1,4 +1,4 @@
-## Hi! I'm Merlin! 👋
+## Hi! I'm MerlinSMQWQ! 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerlinSMQWQ&show_icons=true&theme=radical)
 
 
