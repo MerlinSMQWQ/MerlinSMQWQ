@@ -5,7 +5,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MerlinSMQWQ&theme=github-compact)
 
-![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/MerlinSMQWQ/MerlinSMQWQ/refs/heads/output/github-contribution-grid-snake-dark.svg)
 <!-- 
 ![Top Languages](https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS)  
 ![GitHub Stats](https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark)
