@@ -1,10 +1,7 @@
 ## Hi! I'm MerlinSMQWQ! 👋
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerlinSMQWQ)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerlinSMQWQ)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark)
 
 <!--
 **MerlinSMQWQ/MerlinSMQWQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
