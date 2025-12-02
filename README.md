@@ -1,7 +1,7 @@
 ## Hi! I'm MerlinSMQWQ! 👋
 
-![GitHub Stats](https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark&v=2)
-![Top Languages](https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&v=2)
+![GitHub Stats](https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark&v=3)
+![Top Languages](https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&v=3)
 
 <!--
 **MerlinSMQWQ/MerlinSMQWQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
