@@ -3,7 +3,7 @@
 <div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS"> </div>
 <div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark"> </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MerlinSMQWQ&theme=github_compact)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MerlinSMQWQ&theme=github-compact)
 
 <!-- 
 ![Top Languages](https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS)  
