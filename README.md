@@ -3,7 +3,6 @@
 <div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS"> </div>
 <div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark"> </div>
 
-
 <!-- 
 ![Top Languages](https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS)  
 ![GitHub Stats](https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark)
