@@ -1,6 +1,6 @@
 ## Hi! I'm MerlinSMQWQ! 👋
 
-<div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS&v=5"> </div>
+<div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS,Jupyter Notbook&v=5"> </div>
 <div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark&v=5"> </div>
 <div align="center"> <img src="https://raw.githubusercontent.com/MerlinSMQWQ/MerlinSMQWQ/refs/heads/output/github-contribution-grid-snake-dark.svg"> </div>
 
