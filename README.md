@@ -22,7 +22,7 @@
 #### **数据库/工程**
 <p align="left"> <img src="https://img.shields.io/badge/FAISS-04ADFF?style=for-the-badge&logo=facebook&logoColor=white" alt="FAISS"/> <img src="https://img.shields.io/badge/Vector_DB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB"/> <img src="https://img.shields.io/badge/OCR_Processing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="OCR"/> <img src="https://img.shields.io/badge/Data_Cleaning-33D4FF?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"/> </p>
 
-####**基础设施**
+#### **基础设施**
 <p align="left"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> </p>
 
 ---
@@ -35,8 +35,8 @@
 ---
 
 ### 统计数据
-<div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS&v=7"> </div>
-<div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark&v=7"> </div>
+<div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS&v=8"> </div>
+<div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark&v=8"> </div>
 
 
 <div align="center"> <img src="https://raw.githubusercontent.com/MerlinSMQWQ/MerlinSMQWQ/refs/heads/output/github-contribution-grid-snake-dark.svg"> </div>
