@@ -1,3 +1,5 @@
+<img src="https://count.getloli.com/get/@:MerlinSMQWQ?theme=moebooru-h" alt="访客统计" />
+
 ## Hi! I'm MerlinSMQWQ! 👋
 
 一个专注于人工智能以及软件设计领域的计算机学生。
