@@ -1,4 +1,6 @@
-<img src="https://count.getloli.com/@MerlinSMQWQ?name=MerlinSMQWQ&theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Counter" />
+<div align="center">
+  <img src="https://count.getloli.com/@MerlinSMQWQ?name=MerlinSMQWQ&theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Counter" />
+</div>
 
 ## Hi, I am MerlinSMQWQ
 
