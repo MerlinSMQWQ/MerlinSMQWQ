@@ -16,30 +16,30 @@
 
 ---
 
-## Hi, I am MerlinSMQWQ
+## 👋 Hi, I am MerlinSMQWQ
 
 Computer science student focused on AI systems and software engineering.
 I build practical ML tooling, agent workflows, and production-ready data pipelines.
 
 ---
 
-### About
-- Education: Computer Science
-- Focus: Reinforcement learning agents and multi-agent systems
-- Learning now: FAISS and vector database production patterns
+### 🧭 About
+- 🎓 Education: Computer Science
+- 🔬 Focus: Reinforcement learning agents and multi-agent systems
+- 🌱 Learning now: FAISS and vector database production patterns
 
 ---
 
-### Now
-- Working on API compatibility between Paddle and PyTorch
-- Improving model-serving and retrieval pipeline reliability
-- Studying efficient evaluation workflows for LLM applications
+### 🚀 Now
+- 🛠 Working on API compatibility between Paddle and PyTorch
+- ⚙️ Improving model-serving and retrieval pipeline reliability
+- 📚 Studying efficient evaluation workflows for LLM applications
 
 ---
 
-### Tech Stack
+### 🧰 Tech Stack
 
-#### Languages
+#### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
@@ -48,7 +48,7 @@ I build practical ML tooling, agent workflows, and production-ready data pipelin
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-#### AI and ML
+#### 🤖 AI and ML
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/PaddlePaddle-0052D4?style=for-the-badge&logo=baidu&logoColor=white" alt="PaddlePaddle"/>
@@ -56,7 +56,7 @@ I build practical ML tooling, agent workflows, and production-ready data pipelin
   <img src="https://img.shields.io/badge/Agno-FF4B4B?style=for-the-badge&logo=rocket&logoColor=white" alt="Agno"/>
 </p>
 
-#### Infra and Tools
+#### 🏗️ Infra and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -66,13 +66,13 @@ I build practical ML tooling, agent workflows, and production-ready data pipelin
 
 ---
 
-### Contact
-- Email: MerlinSMQWQ@proton.me
-- Open an issue or discussion in any repo if you want to collaborate
+### 📬 Contact
+- 📧 Email: MerlinSMQWQ@proton.me
+- 💬 Open an issue or discussion in any repo if you want to collaborate
 
 ---
 
-### GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark&v=11" alt="GitHub Stats" height="180"/>
   <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&theme=github_dark&hide=JavaScript,HTML,CSS&v=11" alt="Top Languages" height="180"/>
