@@ -73,13 +73,10 @@ I build practical ML tooling, agent workflows, and production-ready data pipelin
 ---
 
 ### GitHub Stats
-<div align="center">
-  <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS&v=11" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark&v=11" alt="GitHub Stats"/>
-</div>
+<p align="center">
+  <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark&v=11" alt="GitHub Stats" height="180"/>
+  <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&theme=github_dark&hide=JavaScript,HTML,CSS&v=11" alt="Top Languages" height="180"/>
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MerlinSMQWQ/MerlinSMQWQ/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
