@@ -1,4 +1,4 @@
-<img src="https://count.getloli.com/get/@:MerlinSMQWQ?theme=moebooru-h" alt="访客统计" />
+<img src="https://count.getloli.com/@MerlinSMQWQ?name=MerlinSMQWQ&theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="访客统计" />
 
 ## Hi! I'm MerlinSMQWQ! 👋
 
