@@ -82,4 +82,4 @@ I build practical ML tooling, agent workflows, and production-ready data pipelin
   <img src="https://raw.githubusercontent.com/MerlinSMQWQ/MerlinSMQWQ/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
-<div align="center"> <img src="https://github-profile-trophy-tawny.vercel.app/?username=MerlinSMQWQ&theme=darkhub" /> </div>
+<div align="center"> <img src="https://github-profile-trophy-tawny.vercel.app/?username=MerlinSMQWQ&theme=darkhub&v=1" /> </div>
