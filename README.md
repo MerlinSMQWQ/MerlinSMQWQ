@@ -1,4 +1,8 @@
 <div align="center">
+
+# Hello and welcome to my corner!👏
+
+<div align="center">
     <img src="./images/img.gif" width="100%" alt="personal" />
 </div>
 
