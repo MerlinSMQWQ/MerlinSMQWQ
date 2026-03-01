@@ -1,66 +1,68 @@
-<img src="https://count.getloli.com/@MerlinSMQWQ?name=MerlinSMQWQ&theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="访客统计" />
+<img src="https://count.getloli.com/@MerlinSMQWQ?name=MerlinSMQWQ&theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Counter" />
 
-## Hi! I'm MerlinSMQWQ! 👋
+## Hi, I am MerlinSMQWQ
 
-一个专注于人工智能以及软件设计领域的计算机学生。
-目前就读于在哪并不重要。
-
----
-
-### 🔭 个人简介
-- 🎓 **教育背景**: 计算机
-- 🛠️ **当前研究**: 构建强化学习智能体以及多智能体系统。
-- 🌱 **持续学习**: 探索 FAISS 等向量数据库在大规模生产环境中的应用。
+Computer science student focused on AI systems and software engineering.
+I build practical ML tooling, agent workflows, and production-ready data pipelines.
 
 ---
 
-### 🛠 技术栈
-#### **语言**
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> </p>
+### About
+- Education: Computer Science
+- Focus: Reinforcement learning agents and multi-agent systems
+- Learning now: FAISS and vector database production patterns
 
-#### **AI/深度学习**
-<p align="left"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/PaddlePaddle-0052D4?style=for-the-badge&logo=baidu&logoColor=white" alt="PaddlePaddle"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/Agno-FF4B4B?style=for-the-badge&logo=rocket&logoColor=white" alt="Agno"/> </p>
-
-#### **数据库/工程**
-<p align="left"> <img src="https://img.shields.io/badge/FAISS-04ADFF?style=for-the-badge&logo=facebook&logoColor=white" alt="FAISS"/> <img src="https://img.shields.io/badge/Vector_DB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB"/> <img src="https://img.shields.io/badge/OCR_Processing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="OCR"/> <img src="https://img.shields.io/badge/Data_Cleaning-33D4FF?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Cleaning"/> </p>
-
-#### **基础设施**
-<p align="left"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> </p>
+### Now
+- Working on API compatibility between Paddle and PyTorch
+- Improving model-serving and retrieval pipeline reliability
+- Studying efficient evaluation workflows for LLM applications
 
 ---
 
-### 📬 联系我
-- **Email**: MerlinSMQWQ@proton.me
+### Tech Stack
 
-> "雄关漫道真如铁，而今迈步从头越"
+#### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+#### AI and ML
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/PaddlePaddle-0052D4?style=for-the-badge&logo=baidu&logoColor=white" alt="PaddlePaddle"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Agno-FF4B4B?style=for-the-badge&logo=rocket&logoColor=white" alt="Agno"/>
+</p>
+
+#### Infra and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
-### 统计数据
-<div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS&v=11"> </div>
-<div align="center"> <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark&v=11"> </div>
+### Contact
+- Email: MerlinSMQWQ@proton.me
+- Open an issue or discussion in any repo if you want to collaborate
 
+---
 
-<div align="center"> <img src="https://raw.githubusercontent.com/MerlinSMQWQ/MerlinSMQWQ/refs/heads/output/github-contribution-grid-snake-dark.svg"> </div>
+### GitHub Stats
+<div align="center">
+  <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS&v=11" alt="Top Languages"/>
+</div>
 
+<div align="center">
+  <img src="https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark&v=11" alt="GitHub Stats"/>
+</div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MerlinSMQWQ&theme=github-compact)
-<!-- 
-![Top Languages](https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api/top-langs/?username=MerlinSMQWQ&layout=compact&theme=github_dark&hide=JavaScript,HTML,CSS)  
-![GitHub Stats](https://my-github-readme-stats-git-main-merlinsmqwqs-projects.vercel.app/api?username=MerlinSMQWQ&show_icons=true&theme=github_dark)
--->
-
-<!--
-**MerlinSMQWQ/MerlinSMQWQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MerlinSMQWQ/MerlinSMQWQ/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</div>
