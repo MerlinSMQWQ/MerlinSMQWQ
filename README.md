@@ -1,16 +1,20 @@
-<div align="center">
+<h1 align="center"> 
+    Hello and welcome to my corner!👏
+</h1>
 
-# Hello and welcome to my corner!👏
-
 <div align="center">
-    <img src="./images/img.gif" width="100%" alt="personal" />
+    <img src="./images/img.gif" width="70%" alt="personal" />
 </div>
 
-<div></div>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Programs+are+temporary;+design+is+what+survives+change" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <img src="https://count.getloli.com/@MerlinSMQWQ?name=MerlinSMQWQ&theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Counter" />
 </div>
+
+---
 
 ## Hi, I am MerlinSMQWQ
 
@@ -23,6 +27,8 @@ I build practical ML tooling, agent workflows, and production-ready data pipelin
 - Education: Computer Science
 - Focus: Reinforcement learning agents and multi-agent systems
 - Learning now: FAISS and vector database production patterns
+
+---
 
 ### Now
 - Working on API compatibility between Paddle and PyTorch
