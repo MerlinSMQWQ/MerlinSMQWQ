@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://count.getloli.com/@MerlinSMQWQ?name=MerlinSMQWQ&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Counter" />
+  <img src="https://count.getloli.com/@MerlinSMQWQ?name=MerlinSMQWQ&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Counter" />
 </div>
 
 ---
