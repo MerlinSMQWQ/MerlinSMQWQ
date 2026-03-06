@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="images/img1.gif" width="70%" alt="personal" />
+    <img src="images/img1.gif" width="55%" alt="personal" />
 </div>
 
 <div align="center">
