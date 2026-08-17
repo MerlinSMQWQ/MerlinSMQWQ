@@ -82,8 +82,6 @@ I build practical ML tooling, agent workflows, and production-ready data pipelin
   <img src="https://raw.githubusercontent.com/MerlinSMQWQ/MerlinSMQWQ/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
-<div align="center"> <img src="https://github-profile-trophy-tawny.vercel.app/?username=MerlinSMQWQ&theme=darkhub&v=1" /> </div>
-
 ---
 > 人最宝贵的是生命，这生命属于每个人，只有一次。人的一生应该这样度过，当他回首往事的时候，不因虚度年华而悔恨，也不以碌碌无为而羞耻，这样在临死的时候，他可以说：我的整个生命和全部精力，都奉献给了世界上最壮丽的事业，为全人类的解放而斗争！
 
